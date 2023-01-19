@@ -2,11 +2,6 @@ body {
     background-color: #1F2631;
     color: white;
 }
-.linkstopo {
-    background-color: #094493;
-    font-size: 20px;
-    color: aqua;
-}
 .nome {
     text-align: center;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -36,7 +31,9 @@ ul {
     border-style: groove;      
     background-color: #1a1b1c;     
 }
-.header
+.header {
+    
+}
 .git {
     font-size: 23px;
 }
