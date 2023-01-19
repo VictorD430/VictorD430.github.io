@@ -11,28 +11,38 @@ body {
     background-color: #1a1b1c;     
 }
 .descricao {
-    background-color: #1a1b1c;
 }
 .subdescricao {
-    background-color: #1a1b1c;
 }
 p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-style: italic,subt ;
-    background-color: #1a1b1c;
 }
 ul {
     font-style: italic;
-    background-color: #1a1b1c;
 }
 #minhafoto {
     position: absolute;
     width: 200px;           
     border-style: groove;      
-    background-color: #1a1b1c;     
+    background-color: #1a1b1c;   
+    left: 50px;  
 }
 .header {
-    
+}
+.header-desc {
+    position: absolute;
+    left: 300px;
+}
+.header-desc2 {
+    position: absolute;
+    left: 300px;
+    top: 250px;
+}
+.content {
+    position: absolute;
+    left: 30px;
+    top: 400px;
 }
 .git {
     font-size: 23px;
