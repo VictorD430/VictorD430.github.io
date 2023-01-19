@@ -1,6 +1,7 @@
 body {
     background-color: #1F2631;
     color: white;
+    padding: auto;
 }
 .nome {
     text-align: center;
@@ -22,27 +23,20 @@ ul {
     font-style: italic;
 }
 #minhafoto {
-    position: absolute;
-    width: 200px;           
-    border-style: groove;      
+    float: left;
+    width: 200px;                
     background-color: #1a1b1c;   
-    left: 50px;  
+    padding: 200 50 solid red;
 }
 .header {
+    height: 370px;
 }
 .header-desc {
-    position: absolute;
-    left: 300px;
 }
 .header-desc2 {
-    position: absolute;
-    left: 300px;
-    top: 250px;
 }
 .content {
-    position: absolute;
-    left: 30px;
-    top: 400px;
+
 }
 .git {
     font-size: 23px;
@@ -76,4 +70,7 @@ ul {
 }
 .csharp {
     font-size: 25px;
+}
+.links {
+    float: inline-end;
 }
