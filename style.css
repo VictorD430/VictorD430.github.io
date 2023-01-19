@@ -32,7 +32,8 @@ ul {
     height: 370px;
 }
 .header-desc {
-
+    text-align: left;
+    text-shadow: #1F2631;
 }
 .header-desc2 {
 }
